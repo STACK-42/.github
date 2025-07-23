@@ -10,5 +10,5 @@ This organization is where we test our apps and collaborate on projects. Join us
 Here's a list of our open-source repositories:
 
 - [Cphorm](https://github.com/STACK-42/Cphorm) This is the main repository where the different parts of the solution are documented and submoduled. 
-- [Cphrom_be](https://github.com/STACK-42/Cphorm_be) This is the backend API for the Cphorme project
-- [Cphorm_fe](https://github.com/STACK-42/Cphorm_fe#)
+- [Cphrom_API](https://github.com/STACK-42/Cphorm_be) This is the backend API for the Cphrom Project
+- [Cphorm_fe](https://github.com/STACK-42/Cphorm_fe#) The Frontend and Dashboard for Cphorm Project
