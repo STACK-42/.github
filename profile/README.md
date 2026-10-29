@@ -1,14 +1,17 @@
-# Stack-24 Team 
+# Stack-24 
+<img width="2560" height="800" alt="banner-dark" src="https://github.com/user-attachments/assets/d3d579b9-3a96-4d50-964e-0e2655de0994" />
 
-<img width="952" height="293" alt="Screen Shot 2025-07-23 at 7 25 06 PM" src="https://github.com/user-attachments/assets/ce6aef1c-be82-45fc-bffe-51e471fc47a5" />
+**stack42 is our experimental playground.** We're a band of undergrad freshers and one "wise" recent grad who are still figuring things out. This organization is where we test our apps and collaborate on projects.
 
-# About
-Welcome to **Stack42**, the proving/experimental playground for our hackathon adventures! We're a band of undergrad freshers and one _"wise"_ recent grad who are still figuring things out.
-This organization is where we test our apps and collaborate on projects. Join us in exploring the future of development, one project at a time.
+## Shipped
 
-## Repositories
-Here's a list of our open-source repositories:
+| | What it is | Try it |
+| --- | --- | --- |
+| [**decoded**](https://github.com/STACK-42/decoded) | Free computer science courses that tie each piece of theory to the tools it powers. | [decoded.stack42.tech](https://decoded.stack42.tech) |
+| **schoolers** | Alumni directory and community network for graduates of the School of Mathematical Sciences & Informatics. | [schoolers.space](https://schoolers.space) |
+| [**aeset**](https://github.com/STACK-42/Aeset) | A CLI that scaffolds After Effects projects with a studio-standard folder structure. | [aeset.stack42.tech](https://aeset.stack42.tech) |
+| [**peeko**](https://github.com/STACK-42/peeko) | A macOS menu bar app that notices when you get things done and ticks them off for you. | [peeko.stack42.tech](https://peeko.stack42.tech) |
+| [**relaunch**](https://github.com/STACK-42/relaunch) | The paged Launchpad app grid, back on your Mac. Free and open source. | [relaunch.stack42.tech](https://relaunch.stack42.tech) |
+| [**nextinml**](https://github.com/STACK-42/nextinml) | A directory of ML summer schools, fellowships and internships for early-stage students. | [nextinml.stack42.tech](https://nextinml.stack42.tech) |
 
-- [Cphorm](https://github.com/STACK-42/Cphorm) This is the main repository where the different parts of the solution are documented and submoduled. 
-- [Cphrom_API](https://github.com/STACK-42/Cphorm_be) This is the backend API for the Cphrom Project
-- [Cphorm_fe](https://github.com/STACK-42/Cphorm_fe#) The Frontend and Dashboard for Cphorm Project
+More is cooking. Star a repo to follow along, or see everything at [stack42.tech](https://stack42.tech).
